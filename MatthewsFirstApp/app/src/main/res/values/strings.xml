@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MatthewsFirstApp</string>
+    <string name="large_text">Big ass text</string>
+    <string name="new_large_text">Small ass text</string>
+    <string name="button_1_text">Click here!</string>
+    <string name="button_1_newText">You did it!</string>
+</resources>

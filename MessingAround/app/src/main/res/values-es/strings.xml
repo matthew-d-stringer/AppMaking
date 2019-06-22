@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Perder el tiemp</string>
+    <string name="users_name_edit_text">Tu nombre</string>
+    <string name="happy_question">Usted feliz?</string>
+    <string name="answer_yes">Si</string>
+    <string name="answer_no">No</string>
+</resources>
